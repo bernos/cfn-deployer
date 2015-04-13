@@ -2,13 +2,18 @@
   "name": "cfn-deployer",
   "version": "1.0.0",
   "description": "cli tool for cloudformation deployments",
-  "main": "cfn-deployer.js",
+  "main": "lib/cfn-deployer.js",
+  "bin": "lib/cfn-deployer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brendan McMahon",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.1.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bernos/cfn-deployer"
   }
 }

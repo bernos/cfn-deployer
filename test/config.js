@@ -1,5 +1,5 @@
 module.exports = {
-	StackName : "MyOtherStack",
+	StackName : "MyStack",
 	Region : "ap-southeast-2",
 	TemplateFolder: "sample-templates",
 	MainTemplate: "master.template",

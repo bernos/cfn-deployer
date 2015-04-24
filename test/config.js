@@ -4,6 +4,7 @@ module.exports = {
 	TemplateFolder: "sample-templates",
 	MainTemplate: "master.template",
 	Bucket: "bernos-eb-syd",
+	BucketFolder: "my-app",
 	Params: {},
 	Tags: {}
 }

@@ -3,7 +3,7 @@ module.exports = {
 	Region : "ap-southeast-2",
 	TemplateFolder: "sample-templates",
 	MainTemplate: "master.template",
-	Bucket: "my-app.packages",
+	Bucket: "bernos-eb-syd",
 	Params: {},
 	Tags: {}
 }

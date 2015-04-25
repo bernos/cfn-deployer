@@ -3,8 +3,8 @@
   "version": "0.0.2",
   "description": "cli tool for cloudformation deployments",
   "main": "lib/cfn-deployer.js",
-  "bin": { 
-	  "cfn-deployer" : "lib/cli.js"
+  "bin": {
+    "cfn-deployer": "lib/cli.js"
   },
   "scripts": {
     "test": "mocha --reporter spec test"
@@ -15,9 +15,9 @@
     "aws-sdk": "^2.1.23",
     "chai": "^2.2.0",
     "colors": "^1.0.3",
-    "guid": "0.0.12",
     "lodash": "^3.6.0",
     "mocha": "^2.2.4",
+    "node-uuid": "^1.4.3",
     "nomnom": "^1.8.1"
   },
   "devDependencies": {

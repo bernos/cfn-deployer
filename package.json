@@ -1,6 +1,6 @@
 {
   "name": "cfn-deployer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli tool for cloudformation deployments",
   "main": "lib/cfn-deployer.js",
   "bin": "lib/cfn-deployer.js",

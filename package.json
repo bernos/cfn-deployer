@@ -12,6 +12,7 @@
   "author": "Brendan McMahon",
   "license": "MIT",
   "dependencies": {
+    "archiver": "^0.14.3",
     "aws-sdk": "^2.1.23",
     "chai": "^2.2.0",
     "colors": "^1.0.3",
